@@ -1,8 +1,8 @@
 # Tailwind Manage Landing Page
 
-A landing page designed purely with tailwind css
+A landing page designed purely with tailwind css.
 
-![Alt text](/img/screen.png?raw=true)
+![Alt text](/img/screen.png)
 
 # Usage
 
