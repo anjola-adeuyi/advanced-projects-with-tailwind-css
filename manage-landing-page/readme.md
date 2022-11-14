@@ -2,7 +2,7 @@
 
 A landing page designed purely with tailwind css.
 
-![Alt text](/img/screen.png)
+![Alt text](/manage-landing-page/img/screen.png?raw=true)
 
 # Usage
 
