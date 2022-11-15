@@ -864,6 +864,10 @@ video {
     margin-bottom: 1rem;
   }
 
+  .md\:-mt-8 {
+    margin-top: -2rem;
+  }
+
   .md\:block {
     display: block;
   }
@@ -874,6 +878,10 @@ video {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:h-4 {
+    height: 1rem;
   }
 
   .md\:w-1\/2 {
